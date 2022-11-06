@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+html,body{
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #eaeced;
+}
+
+.App {
+    margin: 50px;
+    display: grid;
+    grid-template-columns: 30% 70%;
+}
